@@ -1,0 +1,10 @@
+{
+  "name": "ISUZU 부산 전자명함 위젯",
+  "short_name": "ISUZU 부산 명함",
+  "description": "ISUZU 부산 아이폰 로컬 설치형 전자명함 위젯 앱",
+  "start_url": "/isuzubusan/app/",
+  "scope": "/isuzubusan/app/",
+  "display": "standalone",
+  "background_color": "#191F28",
+  "theme_color": "#191F28"
+}
